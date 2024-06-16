@@ -3,4 +3,5 @@ node_modules/
 .env
 # Other entries...
 # git
+# git
 .exe
